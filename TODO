@@ -1,0 +1,11 @@
+- Check for bugs
+
+index.html
+- Separate HTML, JavaScript and CSS
+- Clean and organize the code
+- Comment the code
+
+app.js
+- Clean and organize the code (important)
+- Comment the code (important)
+- Add more logging
